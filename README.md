@@ -17,3 +17,5 @@ Dataset:
 - Daily updated .csv file on https://bit.ly/30d2gdi
 
 Youtube Video Link : https://youtu.be/G-4HBBY-TWQ
+
+Tableau Public Link : https://public.tableau.com/profile/nivetha.sekar#!/vizhome/TimelineAnalysisofCovid-19byNivethaSekar/
